@@ -10,8 +10,8 @@
     "node",
     "stream"
   ],
-  "author": "Dean Shi",
-  "license": "ISC",
+  "author": "Dean Shi <dean.xiaoshi@gmail.com>",
+  "license": "MIT",
   "devDependencies": {
     "tap-spec": "^4.1.1",
     "tape": "^4.6.0"
