@@ -1,0 +1,19 @@
+{
+  "name": "dscript",
+  "version": "0.1.0",
+  "description": "script designed to take text input (such as from a log file) and report on the number of lines and growth rate of the file",
+  "main": "dscript.js",
+  "scripts": {
+    "test": "node ./dscript.test | tap-spec"
+  },
+  "keywords": [
+    "node",
+    "stream"
+  ],
+  "author": "Dean Shi",
+  "license": "ISC",
+  "devDependencies": {
+    "tap-spec": "^4.1.1",
+    "tape": "^4.6.0"
+  }
+}
