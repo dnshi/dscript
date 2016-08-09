@@ -6,6 +6,10 @@
   "scripts": {
     "test": "node ./dscript.test | tap-spec"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnshi/dscript.git"
+  },
   "keywords": [
     "node",
     "stream"
